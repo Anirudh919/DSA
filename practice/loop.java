@@ -36,7 +36,7 @@ public class loop {
         while(i<n){
             int j =0;
             while(j<n){
-                System.out.print("*\t");
+                System.out.print(".*\t");
                 j++;
             }
             System.out.println();
