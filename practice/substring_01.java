@@ -1,6 +1,6 @@
 package practice;
 
-public class substring {
+public class substring_01 {
     public static void main(String[] args){
         String str = "83415";
         Sub_String(str);
